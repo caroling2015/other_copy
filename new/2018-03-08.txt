@@ -1,0 +1,95 @@
+2018-03-08 13:38:56 There is no order in JRCETP
+2018-03-08 13:38:56 There is no order in JRCETH
+2018-03-08 13:38:57 There is no order in JRCBTC
+2018-03-08 13:38:57 {'type': 'LIMIT', 'trading_pair': 'JRCETP', 'limit': 600000000, 'side': 'SELL', 'quantity': 100000000}
+2018-03-08 13:38:59 Frozen JRC before SELL/Buy:0
+Frozen ETP before SELL/Buy:501000000
+2018-03-08 13:38:59 In Account, there is no JRC
+2018-03-08 13:39:40 There is no order in JRCETP
+2018-03-08 13:39:40 There is no order in JRCETH
+2018-03-08 13:39:41 There is no order in JRCBTC
+2018-03-08 13:39:41 {'type': 'LIMIT', 'trading_pair': 'JRCETP', 'limit': 600000000, 'side': 'SELL', 'quantity': 100000000}
+2018-03-08 13:39:42 Frozen JRC before SELL/Buy:0
+Frozen ETP before SELL/Buy:501000000
+2018-03-08 13:39:42 In Account, there is no JRC
+2018-03-08 13:40:45 There is no order in JRCETP
+2018-03-08 13:40:46 There is no order in JRCETH
+2018-03-08 13:40:46 There is no order in JRCBTC
+2018-03-08 13:40:46 {'type': 'LIMIT', 'trading_pair': 'JRCETP', 'limit': 600000000, 'side': 'SELL', 'quantity': 100000000}
+2018-03-08 13:40:48 Frozen JRC before SELL/Buy:0
+Frozen ETP before SELL/Buy:501000000
+2018-03-08 13:40:48 In Account, there is no JRC
+2018-03-08 13:40:57 There is no order in JRCETP
+2018-03-08 13:40:58 There is no order in JRCETH
+2018-03-08 13:40:59 There is no order in JRCBTC
+2018-03-08 13:40:59 {'type': 'LIMIT', 'trading_pair': 'JRCETP', 'limit': 600000000, 'side': 'SELL', 'quantity': 100000000}
+2018-03-08 13:41:00 Frozen JRC before SELL/Buy:0
+Frozen ETP before SELL/Buy:501000000
+2018-03-08 13:41:00 In Account, there is no JRC
+2018-03-08 13:41:17 There is no order in JRCETP
+2018-03-08 13:41:17 There is no order in JRCETH
+2018-03-08 13:41:18 There is no order in JRCBTC
+2018-03-08 13:41:18 {'type': 'LIMIT', 'trading_pair': 'JRCETP', 'limit': 600000000, 'side': 'SELL', 'quantity': 100000000}
+2018-03-08 13:41:19 Frozen JRC before SELL/Buy:0
+Frozen ETP before SELL/Buy:501000000
+2018-03-08 13:41:19 In Account, there is no JRC
+2018-03-08 13:41:34 There is no order in JRCETP
+2018-03-08 13:41:34 There is no order in JRCETH
+2018-03-08 13:41:35 There is no order in JRCBTC
+2018-03-08 13:41:35 {'type': 'LIMIT', 'trading_pair': 'JRCETP', 'limit': 600000000, 'side': 'SELL', 'quantity': 100000000}
+2018-03-08 13:41:36 Frozen JRC before SELL/Buy:0
+Frozen ETP before SELL/Buy:501000000
+2018-03-08 13:41:36 In Account, there is no JRC
+2018-03-08 13:46:35 There is no order in JRCETP
+2018-03-08 13:46:35 There is no order in JRCETH
+2018-03-08 13:46:36 There is no order in JRCBTC
+2018-03-08 13:46:36 {'type': 'LIMIT', 'trading_pair': 'JRCETP', 'limit': 600000000, 'side': 'SELL', 'quantity': 100000000}
+2018-03-08 13:46:40 Frozen JRC before SELL/Buy:0
+Frozen ETP before SELL/Buy:501000000
+2018-03-08 13:46:41 Frozen JRC after SELL/Buy:100000000
+2018-03-08 13:46:41 Sell order 10000008 suc,waiting bid
+2018-03-08 13:46:41 -------------------------------------------------------
+2018-03-08 13:46:41 {'type': 'LIMIT', 'trading_pair': 'JRCETP', 'limit': 500000000, 'side': 'BUY', 'quantity': 100000000}
+2018-03-08 13:46:42 Frozen JRC before SELL/Buy:100000000
+Frozen ETP before SELL/Buy:501000000
+2018-03-08 13:46:43 Frozen ETP after SELL/Buy:501000000
+2018-03-08 13:46:43 fee of ETP:501000000
+2018-03-08 13:46:43 actual fee:0
+2018-03-08 13:46:43 Frozen fail after Buy,quantity is wrong
+2018-03-08 13:46:43 -------------------------------------------------------
+2018-03-08 13:46:43 {'type': 'LIMIT', 'trading_pair': 'JRCETH', 'limit': 60000000, 'side': 'SELL', 'quantity': 100000000}
+2018-03-08 13:46:45 Frozen JRC before SELL/Buy:100000000
+Frozen ETH before SELL/Buy:50100000
+2018-03-08 13:46:45 Frozen JRC after SELL/Buy:200000000
+2018-03-08 13:46:45 Sell order 10000001 suc,waiting bid
+2018-03-08 13:46:45 -------------------------------------------------------
+2018-03-08 13:46:45 {'type': 'LIMIT', 'trading_pair': 'JRCETH', 'limit': 50000000, 'side': 'BUY', 'quantity': 100000000}
+2018-03-08 13:46:47 Frozen JRC before SELL/Buy:200000000
+Frozen ETH before SELL/Buy:50100000
+2018-03-08 13:46:47 Frozen ETH after SELL/Buy:100200000
+2018-03-08 13:46:47 fee of ETH:50100000
+2018-03-08 13:46:47 actual fee:50100000
+2018-03-08 13:46:47 Buy order 10000002 suc,waiting bid
+2018-03-08 13:46:47 -------------------------------------------------------
+2018-03-08 13:46:47 {'type': 'LIMIT', 'trading_pair': 'JRCBTC', 'limit': 6000000, 'side': 'SELL', 'quantity': 100000000}
+2018-03-08 13:46:49 Frozen JRC before SELL/Buy:200000000
+Frozen BTC before SELL/Buy:667781478
+2018-03-08 13:46:49 Frozen JRC after SELL/Buy:300000000
+2018-03-08 13:46:49 Sell order 10000001 suc,waiting bid
+2018-03-08 13:46:49 -------------------------------------------------------
+2018-03-08 13:46:49 {'type': 'LIMIT', 'trading_pair': 'JRCBTC', 'limit': 5000000, 'side': 'BUY', 'quantity': 100000000}
+2018-03-08 13:46:51 Frozen JRC before SELL/Buy:300000000
+Frozen BTC before SELL/Buy:667781478
+2018-03-08 13:46:51 Frozen BTC after SELL/Buy:672791478
+2018-03-08 13:46:51 fee of BTC:5010000
+2018-03-08 13:46:51 actual fee:5010000
+2018-03-08 13:46:52 Buy order 10000002 suc,waiting bid
+2018-03-08 13:46:52 -------------------------------------------------------
+2018-03-08 13:47:33 ---Start cancel order:10000008---
+2018-03-08 13:47:34 ---Start cancel order:10000002---
+2018-03-08 13:47:35 ---Start cancel order:10000001---
+2018-03-08 13:47:36 ---Start cancel order:10000001---
+2018-03-08 13:47:36 ---Start cancel order:10000002---
+2018-03-08 13:48:16 There is no order in JRCETP
+2018-03-08 13:48:16 There is no order in JRCETH
+2018-03-08 13:48:17 There is no order in JRCBTC

@@ -1,0 +1,172 @@
+2018-02-06 13:41:34 abcdefg
+2018-02-06 13:42:01 abcdefg
+2018-02-06 13:42:01 abcdefg
+2018-02-06 13:55:19 Frozen ECH before SELL/Buy:300000000
+Frozen ETP before SELL/Buy:501000000
+2018-02-06 13:55:19 Order fail,Cause ERR_CREATE_ORDER
+2018-02-06 13:57:14 There is no order in AMBETP
+2018-02-06 13:57:14 There is no order in AMBETH
+2018-02-06 13:57:14 There is no order in AMBBTC
+2018-02-06 13:57:16 Frozen AMB before SELL/Buy:0
+Frozen ETP before SELL/Buy:501000000
+2018-02-06 13:58:07 There is no order in AMBETP
+2018-02-06 13:58:07 There is no order in AMBETH
+2018-02-06 13:58:08 There is no order in AMBBTC
+2018-02-06 13:58:10 Frozen AMB before SELL/Buy:0
+Frozen ETP before SELL/Buy:501000000
+2018-02-06 13:58:36 There is no order in AMBETP
+2018-02-06 13:58:36 There is no order in AMBETH
+2018-02-06 13:58:37 There is no order in AMBBTC
+2018-02-06 13:59:01 There is no order in AMBETP
+2018-02-06 13:59:01 There is no order in AMBETH
+2018-02-06 13:59:02 There is no order in AMBBTC
+2018-02-06 14:15:10 There is no order in AMBETP
+2018-02-06 14:15:10 There is no order in AMBETH
+2018-02-06 14:15:10 There is no order in AMBBTC
+2018-02-06 14:19:24 There is no order in AMBETP
+2018-02-06 14:19:24 There is no order in AMBETH
+2018-02-06 14:19:24 There is no order in AMBBTC
+2018-02-06 14:19:25 Frozen AMB before SELL/Buy:0
+Frozen ETP before SELL/Buy:501000000
+2018-02-06 14:19:51 There is no order in AMBETP
+2018-02-06 14:19:51 There is no order in AMBETH
+2018-02-06 14:19:51 There is no order in AMBBTC
+2018-02-06 14:19:52 Frozen AMB before SELL/Buy:0
+Frozen ETP before SELL/Buy:501000000
+2018-02-06 14:19:52 In Account, there is no AMB
+2018-02-06 14:23:12 There is no order in AMBETP
+2018-02-06 14:23:13 There is no order in AMBETH
+2018-02-06 14:23:13 There is no order in AMBBTC
+2018-02-06 14:23:14 Frozen AMB before SELL/Buy:0
+Frozen ETP before SELL/Buy:501000000
+2018-02-06 14:23:14 Frozen AMB after SELL/Buy:100000000
+2018-02-06 14:23:14 Sell order 10000018 suc,waiting bid
+2018-02-06 14:23:14 -------------------------------------------------------
+2018-02-06 14:23:15 Frozen AMB before SELL/Buy:100000000
+Frozen ETP before SELL/Buy:501000000
+2018-02-06 14:23:15 Frozen ETP after SELL/Buy:1002000000
+2018-02-06 14:23:15 fee of ETP:501000000
+2018-02-06 14:23:15 actual fee:501000000
+2018-02-06 14:23:15 Buy order 10000019 suc,waiting bid
+2018-02-06 14:23:15 -------------------------------------------------------
+2018-02-06 14:23:16 Frozen AMB before SELL/Buy:100000000
+Frozen ETH before SELL/Buy:50100000
+2018-02-06 14:23:17 Frozen AMB after SELL/Buy:200000000
+2018-02-06 14:23:17 Sell order 10000015 suc,waiting bid
+2018-02-06 14:23:17 -------------------------------------------------------
+2018-02-06 14:23:18 Frozen AMB before SELL/Buy:200000000
+Frozen ETH before SELL/Buy:50100000
+2018-02-06 14:23:18 Frozen ETH after SELL/Buy:100200000
+2018-02-06 14:23:18 fee of ETH:50100000
+2018-02-06 14:23:18 actual fee:50100000
+2018-02-06 14:23:18 Buy order 10000016 suc,waiting bid
+2018-02-06 14:23:18 -------------------------------------------------------
+2018-02-06 14:23:19 Frozen AMB before SELL/Buy:200000000
+Frozen BTC before SELL/Buy:55110000
+2018-02-06 14:23:19 Frozen AMB after SELL/Buy:300000000
+2018-02-06 14:23:19 Sell order 10000014 suc,waiting bid
+2018-02-06 14:23:19 -------------------------------------------------------
+2018-02-06 14:23:20 Frozen AMB before SELL/Buy:300000000
+Frozen BTC before SELL/Buy:55110000
+2018-02-06 14:23:20 Frozen BTC after SELL/Buy:60120000
+2018-02-06 14:23:20 fee of BTC:5010000
+2018-02-06 14:23:20 actual fee:5010000
+2018-02-06 14:23:20 Buy order 10000015 suc,waiting bid
+2018-02-06 14:23:20 -------------------------------------------------------
+2018-02-06 17:37:46 ---Start cancel order:10000019---
+2018-02-06 17:37:47 ---Start cancel order:10000018---
+2018-02-06 17:37:47 ---Start cancel order:10000015---
+2018-02-06 17:37:48 ---Start cancel order:10000016---
+2018-02-06 17:37:48 ---Start cancel order:10000014---
+2018-02-06 17:37:49 ---Start cancel order:10000015---
+2018-02-06 17:37:49 {'type': 'LIMIT', 'trading_pair': 'AMBETP', 'limit': 600000000, 'side': 'SELL', 'quantity': 100000000}
+2018-02-06 17:37:50 Frozen AMB before SELL/Buy:0
+Frozen ETP before SELL/Buy:501000000
+2018-02-06 17:37:50 Frozen AMB after SELL/Buy:100000000
+2018-02-06 17:37:50 Sell order 10000020 suc,waiting bid
+2018-02-06 17:37:50 -------------------------------------------------------
+2018-02-06 17:37:50 {'type': 'LIMIT', 'trading_pair': 'AMBETP', 'limit': 500000000, 'side': 'BUY', 'quantity': 100000000}
+2018-02-06 17:37:51 Frozen AMB before SELL/Buy:100000000
+Frozen ETP before SELL/Buy:501000000
+2018-02-06 17:37:51 Frozen ETP after SELL/Buy:1002000000
+2018-02-06 17:37:51 fee of ETP:501000000
+2018-02-06 17:37:51 actual fee:501000000
+2018-02-06 17:37:51 Buy order 10000021 suc,waiting bid
+2018-02-06 17:37:51 -------------------------------------------------------
+2018-02-06 17:37:51 {'type': 'LIMIT', 'trading_pair': 'AMBETH', 'limit': 60000000, 'side': 'SELL', 'quantity': 100000000}
+2018-02-06 17:37:52 Frozen AMB before SELL/Buy:100000000
+Frozen ETH before SELL/Buy:50100000
+2018-02-06 17:37:53 Frozen AMB after SELL/Buy:200000000
+2018-02-06 17:37:53 Sell order 10000017 suc,waiting bid
+2018-02-06 17:37:53 -------------------------------------------------------
+2018-02-06 17:37:53 {'type': 'LIMIT', 'trading_pair': 'AMBETH', 'limit': 50000000, 'side': 'BUY', 'quantity': 100000000}
+2018-02-06 17:37:54 Frozen AMB before SELL/Buy:200000000
+Frozen ETH before SELL/Buy:50100000
+2018-02-06 17:37:54 Frozen ETH after SELL/Buy:100200000
+2018-02-06 17:37:54 fee of ETH:50100000
+2018-02-06 17:37:54 actual fee:50100000
+2018-02-06 17:37:54 Buy order 10000018 suc,waiting bid
+2018-02-06 17:37:54 -------------------------------------------------------
+2018-02-06 17:37:54 {'type': 'LIMIT', 'trading_pair': 'AMBBTC', 'limit': 6000000, 'side': 'SELL', 'quantity': 100000000}
+2018-02-06 17:37:55 Frozen AMB before SELL/Buy:200000000
+Frozen BTC before SELL/Buy:55110000
+2018-02-06 17:37:55 Frozen AMB after SELL/Buy:300000000
+2018-02-06 17:37:55 Sell order 10000016 suc,waiting bid
+2018-02-06 17:37:55 -------------------------------------------------------
+2018-02-06 17:37:55 {'type': 'LIMIT', 'trading_pair': 'AMBBTC', 'limit': 5000000, 'side': 'BUY', 'quantity': 100000000}
+2018-02-06 17:37:56 Frozen AMB before SELL/Buy:300000000
+Frozen BTC before SELL/Buy:55110000
+2018-02-06 17:37:56 Frozen BTC after SELL/Buy:60120000
+2018-02-06 17:37:57 fee of BTC:5010000
+2018-02-06 17:37:57 actual fee:5010000
+2018-02-06 17:37:57 Buy order 10000017 suc,waiting bid
+2018-02-06 17:37:57 -------------------------------------------------------
+2018-02-06 18:16:39 {'type': 'LIMIT', 'trading_pair': 'BTMBTC', 'limit': 5793340, 'side': 'SELL', 'quantity': 8237345019L}
+2018-02-06 18:16:40 Frozen BTM before SELL/Buy:0
+Frozen BTC before SELL/Buy:60120000
+2018-02-06 18:16:40 Order fail,Cause ERR_CREATE_ORDER
+2018-02-06 18:17:15 {'type': 'LIMIT', 'trading_pair': 'AMBBTC', 'limit': 5793340, 'side': 'SELL', 'quantity': 8237345019L}
+2018-02-06 18:17:16 Frozen AMB before SELL/Buy:300000000
+Frozen BTC before SELL/Buy:60120000
+2018-02-06 18:17:16 Frozen AMB after SELL/Buy:8537345019
+2018-02-06 18:17:16 Sell order 10000018 suc,waiting bid
+2018-02-06 18:17:16 -------------------------------------------------------
+2018-02-06 18:17:16 {'type': 'LIMIT', 'trading_pair': 'AMBBTC', 'limit': 5793340, 'side': 'Buy', 'quantity': 8237345019L}
+2018-02-06 18:17:17 Frozen AMB before SELL/Buy:8537345019
+Frozen BTC before SELL/Buy:60120000
+2018-02-06 18:17:17 Order fail,Cause ERR_ORDER_SIDE
+2018-02-06 18:18:03 {'type': 'LIMIT', 'trading_pair': 'AMBBTC', 'limit': 5793340, 'side': 'SELL', 'quantity': 8237345019L}
+2018-02-06 18:18:04 Frozen AMB before SELL/Buy:8537345019
+Frozen BTC before SELL/Buy:60120000
+2018-02-06 18:18:04 Frozen AMB after SELL/Buy:16774690038
+2018-02-06 18:18:04 Sell order 10000019 suc,waiting bid
+2018-02-06 18:18:04 -------------------------------------------------------
+2018-02-06 18:18:04 {'type': 'LIMIT', 'trading_pair': 'AMBBTC', 'limit': 5793340, 'side': 'BUY', 'quantity': 8237345019L}
+2018-02-06 18:18:05 Frozen AMB before SELL/Buy:16774690038
+Frozen BTC before SELL/Buy:60120000
+2018-02-06 18:18:06 Frozen BTC after SELL/Buy:60120000
+2018-02-06 18:18:06 fee of BTC:477694621
+2018-02-06 18:18:06 actual fee:0
+2018-02-06 18:18:06 Frozen fail after Buy,quantity is wrong
+2018-02-06 18:18:06 -------------------------------------------------------
+2018-02-06 18:18:06 {'type': 'LIMIT', 'trading_pair': 'AMBBTC', 'limit': 5485035, 'side': 'SELL', 'quantity': 2690052681L}
+2018-02-06 18:18:07 Frozen AMB before SELL/Buy:8537345019
+Frozen BTC before SELL/Buy:60120000
+2018-02-06 18:18:07 Frozen AMB after SELL/Buy:11227397700
+2018-02-06 18:18:07 Sell order 10000021 suc,waiting bid
+2018-02-06 18:18:07 -------------------------------------------------------
+2018-02-06 18:18:07 {'type': 'LIMIT', 'trading_pair': 'AMBBTC', 'limit': 5485035, 'side': 'BUY', 'quantity': 2690052681L}
+2018-02-06 18:18:08 Frozen AMB before SELL/Buy:11227397700
+Frozen BTC before SELL/Buy:60120000
+2018-02-06 18:18:08 Frozen BTC after SELL/Buy:60120000
+2018-02-06 18:18:08 fee of BTC:147697881
+2018-02-06 18:18:08 actual fee:0
+2018-02-06 18:18:08 Frozen fail after Buy,quantity is wrong
+2018-02-06 18:18:08 -------------------------------------------------------
+2018-02-06 18:19:45 ---Start cancel order:10000021---
+2018-02-06 18:19:45 ---Start cancel order:10000020---
+2018-02-06 18:19:46 ---Start cancel order:10000017---
+2018-02-06 18:19:46 ---Start cancel order:10000018---
+2018-02-06 18:19:47 ---Start cancel order:10000023---
+2018-02-06 18:19:47 ---Start cancel order:10000016---
+2018-02-06 18:19:47 ---Start cancel order:10000017---
