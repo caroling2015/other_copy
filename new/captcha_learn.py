@@ -22,6 +22,7 @@ def downloads_pic(**kwargs):
     }
     res = requests.post(url, headers, **kwargs)
     rep = res.json()
+    print rep
     str = (rep['result']['parameter'])[22:]
     print str
     return str
@@ -60,5 +61,5 @@ def get_bin_table(threshold=140):
 if __name__ == '__main__':
     i = 1
     cycle_getImage(i)
-    pic = '%d.jpg' % (i - 1)
+    pic = '%d.jpg' % (i)
     changebin(pic)
